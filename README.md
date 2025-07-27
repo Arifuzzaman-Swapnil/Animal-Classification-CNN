@@ -18,7 +18,7 @@ This capstone project applies deep learning techniques to classify 30 different 
 
 ## 🔬 Methodology
 
-![Methodology Diagram](./methodology-preview.pdf)
+![Methodology Diagram](./methodology.pdf)
 
 ---
 
